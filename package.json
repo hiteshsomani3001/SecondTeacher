@@ -1,0 +1,23 @@
+{
+  "name": "SecondTeacher",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "~4.2.0",
+    "cookie-parser":"~1.0.1",
+    "body-parser":"~1.0.0",
+    "mysql":"2.1.1",
+    "forever":"0.10.11",
+    "bunyan":"0.22.1",
+    "mime":"1.2.11",
+    "multer":"0.0.5",
+    "express-jwt":"0.1.3",
+    "jsonwebtoken":"0.2.0",
+    "crypto":"0.0.3",
+    "nodemailer":"0.6.3",
+    "fast-csv":"0.2.4"
+  }
+}

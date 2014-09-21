@@ -1,0 +1,7 @@
+{
+    "host":"inrelaymail.sapient.com",
+    "port":"25",
+    "sender":"EventAdmin@sapient.com",
+    "header":"Secure Information",
+    "footer":"Contact 999-888-333"
+}

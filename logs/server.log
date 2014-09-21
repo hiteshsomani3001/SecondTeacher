@@ -1,0 +1,361 @@
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":2092,"level":30,"msg":"Database Pools created","time":"2014-04-29T06:57:03.203Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":2092,"level":30,"msg":"Server configuration loaded","time":"2014-04-29T06:57:03.205Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":2092,"level":30,"msg":"Server started on port : 8050","time":"2014-04-29T06:57:03.249Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":6636,"level":30,"msg":"Database Pools created","time":"2014-04-29T06:57:37.682Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":6636,"level":30,"msg":"Server configuration loaded","time":"2014-04-29T06:57:37.683Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":6636,"level":30,"msg":"Server started on port : 8050","time":"2014-04-29T06:57:37.730Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":8104,"level":30,"msg":"Database Pools created","time":"2014-04-29T06:58:08.240Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":8104,"level":30,"msg":"Server configuration loaded","time":"2014-04-29T06:58:08.241Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":8104,"level":30,"msg":"Server started on port : 8050","time":"2014-04-29T06:58:08.284Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":8180,"level":30,"msg":"Database Pools created","time":"2014-04-29T07:01:06.293Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":8180,"level":30,"msg":"Server configuration loaded","time":"2014-04-29T07:01:06.293Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":8180,"level":30,"msg":"Server started on port : 8050","time":"2014-04-29T07:01:06.344Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":7448,"level":30,"msg":"Database Pools created","time":"2014-04-29T07:01:48.243Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":7448,"level":30,"msg":"Server configuration loaded","time":"2014-04-29T07:01:48.244Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":7448,"level":30,"msg":"Server started on port : 8050","time":"2014-04-29T07:01:48.288Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":4748,"level":30,"msg":"Database Pools created","time":"2014-04-29T07:02:36.225Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":4748,"level":30,"msg":"Server configuration loaded","time":"2014-04-29T07:02:36.225Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":4748,"level":30,"msg":"Server started on port : 8050","time":"2014-04-29T07:02:36.268Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":1164,"level":30,"msg":"Database Pools created","time":"2014-04-29T07:02:54.338Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":1164,"level":30,"msg":"Server configuration loaded","time":"2014-04-29T07:02:54.338Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":1164,"level":30,"msg":"Server started on port : 8050","time":"2014-04-29T07:02:54.383Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":7236,"level":30,"msg":"Database Pools created","time":"2014-04-29T07:03:52.605Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":7236,"level":30,"msg":"Server configuration loaded","time":"2014-04-29T07:03:52.606Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":7236,"level":30,"msg":"Server started on port : 8050","time":"2014-04-29T07:03:52.650Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7236,"level":30,"msg":"Executing Query : SELECT * FROM events","time":"2014-04-29T07:03:57.046Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":6324,"level":30,"msg":"Database Pools created","time":"2014-04-29T07:04:44.585Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":6324,"level":30,"msg":"Server configuration loaded","time":"2014-04-29T07:04:44.586Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":6324,"level":30,"msg":"Server started on port : 8050","time":"2014-04-29T07:04:44.629Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":6324,"level":30,"msg":"Executing Query : SELECT * FROM evensts","time":"2014-04-29T07:04:46.118Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":6324,"level":50,"msg":"Error in Executing Query : ER_NO_SUCH_TABLE: Table 'event_dev.evensts' doesn't exist","time":"2014-04-29T07:04:46.134Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":6604,"level":30,"msg":"Database Pools created","time":"2014-04-29T07:05:22.098Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":6604,"level":30,"msg":"Server configuration loaded","time":"2014-04-29T07:05:22.100Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":6604,"level":30,"msg":"Server started on port : 8050","time":"2014-04-29T07:05:22.143Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":2884,"level":30,"msg":"Database Pools created","time":"2014-04-29T07:09:31.792Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":2884,"level":30,"msg":"Server configuration loaded","time":"2014-04-29T07:09:31.793Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":2884,"level":30,"msg":"Server started on port : 8050","time":"2014-04-29T07:09:31.837Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":7600,"level":30,"msg":"Database Pools created","time":"2014-04-29T07:09:55.143Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":7600,"level":30,"msg":"Server configuration loaded","time":"2014-04-29T07:09:55.144Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":7600,"level":30,"msg":"Server started on port : 8050","time":"2014-04-29T07:09:55.187Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7600,"level":30,"msg":"OPTIONS -- undefined","time":"2014-04-29T07:09:58.530Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7600,"level":30,"msg":"GET -- undefined","time":"2014-04-29T07:09:58.543Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7600,"level":30,"msg":"Executing Query : SELECT * FROM events","time":"2014-04-29T07:09:58.546Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":1268,"level":30,"msg":"Database Pools created","time":"2014-04-29T07:11:28.487Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":1268,"level":30,"msg":"Server configuration loaded","time":"2014-04-29T07:11:28.488Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":1268,"level":30,"msg":"Server started on port : 8050","time":"2014-04-29T07:11:28.532Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":1268,"level":30,"msg":"OPTIONS -- undefined","time":"2014-04-29T07:11:32.306Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":1268,"level":30,"msg":"GET -- undefined","time":"2014-04-29T07:11:32.320Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":1268,"level":30,"msg":"Executing Query : SELECT * FROM events","time":"2014-04-29T07:11:32.321Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":7628,"level":30,"msg":"Database Pools created","time":"2014-04-29T07:24:05.789Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":7628,"level":30,"msg":"Server configuration loaded","time":"2014-04-29T07:24:05.790Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":7628,"level":30,"msg":"Server started on port : 8050","time":"2014-04-29T07:24:05.837Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7628,"level":30,"msg":"GET -- undefined","time":"2014-04-29T07:24:08.744Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7628,"level":30,"msg":"Executing Query : SELECT * FROM events","time":"2014-04-29T07:24:08.745Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":7884,"level":30,"msg":"Database Pools created","time":"2014-04-29T09:36:49.120Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":7884,"level":30,"msg":"Server configuration loaded","time":"2014-04-29T09:36:49.121Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":7884,"level":30,"msg":"Server started on port : 8050","time":"2014-04-29T09:36:49.165Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7884,"level":30,"msg":"Executing Query : SELECT * FROM events","time":"2014-04-29T09:36:52.878Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":8068,"level":30,"msg":"Database Pools created","time":"2014-04-29T09:37:24.603Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":8068,"level":30,"msg":"Server configuration loaded","time":"2014-04-29T09:37:24.604Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":8068,"level":30,"msg":"Server started on port : 8050","time":"2014-04-29T09:37:24.647Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":8068,"level":30,"msg":"Executing Query : SELECT * FROM events","time":"2014-04-29T09:37:30.568Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":6280,"level":30,"msg":"Database Pools created","time":"2014-04-29T10:22:08.872Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":6280,"level":30,"msg":"Server configuration loaded","time":"2014-04-29T10:22:08.873Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":6280,"level":30,"msg":"Server started on port : 8050","time":"2014-04-29T10:22:08.918Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":7812,"level":30,"msg":"Database Pools created","time":"2014-04-29T10:27:03.111Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":7812,"level":30,"msg":"Server configuration loaded","time":"2014-04-29T10:27:03.113Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":7812,"level":30,"msg":"Server started on port : 8050","time":"2014-04-29T10:27:03.159Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7812,"level":30,"msg":"/api/dev/agendadetails/25","time":"2014-04-29T10:27:10.001Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7812,"level":30,"msg":"/api/dev/agendadetails/25","time":"2014-04-29T10:27:10.031Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":5916,"level":30,"msg":"Database Pools created","time":"2014-04-29T10:32:12.045Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":5916,"level":30,"msg":"Server configuration loaded","time":"2014-04-29T10:32:12.046Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":5916,"level":30,"msg":"Server started on port : 8050","time":"2014-04-29T10:32:12.092Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":5916,"level":30,"msg":"10.209.23.39 has requested OPTIONS on the api : /api/dev/agendadetails/25","time":"2014-04-29T10:32:14.738Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":5916,"level":30,"msg":"10.209.23.39 has requested GET on the api : /api/dev/agendadetails/25","time":"2014-04-29T10:32:14.763Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":5916,"level":30,"msg":"10.209.23.39 has requested OPTIONS on the api : /api/dev/getfeedback/23","time":"2014-04-29T10:52:01.511Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":5916,"level":30,"msg":"10.209.23.39 has requested GET on the api : /api/dev/getfeedback/23","time":"2014-04-29T10:52:01.545Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":192,"level":30,"msg":"Database Pools created","time":"2014-04-29T10:53:08.424Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":192,"level":30,"msg":"Server configuration loaded","time":"2014-04-29T10:53:08.426Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":192,"level":30,"msg":"Server started on port : 8050","time":"2014-04-29T10:53:08.474Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":192,"level":30,"msg":"10.209.23.39 has requested OPTIONS for the url : /api/dev/getfeedback/23","time":"2014-04-29T10:53:35.517Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":192,"level":30,"msg":"10.209.23.39 has requested GET for the url : /api/dev/getfeedback/23","time":"2014-04-29T10:53:35.552Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":192,"level":50,"msg":"Error in Executing Query : ER_NO_SUCH_TABLE: Table 'event_dev.event_agendaa' doesn't exist","time":"2014-04-29T10:53:35.565Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":192,"level":50,"msg":"Cannot set property 'data' of undefined","time":"2014-04-29T10:53:35.566Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":6752,"level":30,"msg":"Database Pools created","time":"2014-04-29T10:56:38.091Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":6752,"level":30,"msg":"Server configuration loaded","time":"2014-04-29T10:56:38.092Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":6752,"level":30,"msg":"Server started on port : 8050","time":"2014-04-29T10:56:38.143Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":6752,"level":30,"msg":"10.209.23.39 has requested OPTIONS for the url : /api/dev/getfeedback/23","time":"2014-04-29T10:56:41.081Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":6752,"level":30,"msg":"10.209.23.39 has requested GET for the url : /api/dev/getfeedback/23","time":"2014-04-29T10:56:41.111Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":6752,"level":50,"msg":"Error in Executing Query : ER_NO_SUCH_TABLE: Table 'event_dev.event_agendaa' doesn't exist","time":"2014-04-29T10:56:41.127Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":6752,"level":50,"msg":"Cannot set property 'data' of undefined","time":"2014-04-29T10:56:41.131Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":5680,"level":30,"msg":"Database Pools created","time":"2014-04-29T10:57:43.447Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":5680,"level":30,"msg":"Server configuration loaded","time":"2014-04-29T10:57:43.448Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":5680,"level":30,"msg":"Server started on port : 8050","time":"2014-04-29T10:57:43.495Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":5680,"level":30,"msg":"10.209.23.39 has requested OPTIONS for the url : /api/dev/getfeedback/23","time":"2014-04-29T10:57:47.048Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":5680,"level":30,"msg":"10.209.23.39 has requested GET for the url : /api/dev/getfeedback/23","time":"2014-04-29T10:57:47.078Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":5680,"level":50,"msg":"Error in Executing Query : ER_NO_SUCH_TABLE: Table 'event_dev.event_agendaa' doesn't exist","time":"2014-04-29T10:57:47.090Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":7872,"level":30,"msg":"Database Pools created","time":"2014-04-29T10:58:28.971Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":7872,"level":30,"msg":"Server configuration loaded","time":"2014-04-29T10:58:28.972Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":7872,"level":30,"msg":"Server started on port : 8050","time":"2014-04-29T10:58:29.019Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7872,"level":30,"msg":"10.209.23.39 has requested OPTIONS for the url : /api/dev/getfeedback/23","time":"2014-04-29T10:58:31.083Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7872,"level":30,"msg":"10.209.23.39 has requested GET for the url : /api/dev/getfeedback/23","time":"2014-04-29T10:58:31.115Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7872,"level":50,"msg":"Cannot set property 'data' of undefined","time":"2014-04-29T10:58:31.132Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":7736,"level":30,"msg":"Database Pools created","time":"2014-04-29T11:00:02.816Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":7736,"level":30,"msg":"Server configuration loaded","time":"2014-04-29T11:00:02.817Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":7736,"level":30,"msg":"Server started on port : 8050","time":"2014-04-29T11:00:02.864Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7736,"level":30,"msg":"10.209.23.39 has requested OPTIONS for the url : /api/dev/getfeedback/23","time":"2014-04-29T11:00:07.398Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7736,"level":30,"msg":"10.209.23.39 has requested GET for the url : /api/dev/getfeedback/23","time":"2014-04-29T11:00:07.434Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7736,"level":50,"msg":"Cannot set property 'data' of undefined","time":"2014-04-29T11:00:07.451Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":3312,"level":30,"msg":"Database Pools created","time":"2014-04-29T11:03:05.534Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":3312,"level":30,"msg":"Server configuration loaded","time":"2014-04-29T11:03:05.535Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":3312,"level":30,"msg":"Server started on port : 8050","time":"2014-04-29T11:03:05.582Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":3312,"level":30,"msg":"10.209.23.39 has requested OPTIONS for the url : /api/dev/getfeedback/23","time":"2014-04-29T11:03:08.243Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":3312,"level":30,"msg":"10.209.23.39 has requested GET for the url : /api/dev/getfeedback/23","time":"2014-04-29T11:03:08.264Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":3312,"level":50,"msg":"Cannot set property 'data' of undefined","time":"2014-04-29T11:03:08.280Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":4456,"level":30,"msg":"Database Pools created","time":"2014-04-29T11:03:45.489Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":4456,"level":30,"msg":"Server configuration loaded","time":"2014-04-29T11:03:45.490Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":4456,"level":30,"msg":"Server started on port : 8050","time":"2014-04-29T11:03:45.537Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":4456,"level":30,"msg":"10.209.23.39 has requested OPTIONS for the url : /api/dev/getfeedback/23","time":"2014-04-29T11:03:47.139Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":4456,"level":30,"msg":"10.209.23.39 has requested GET for the url : /api/dev/getfeedback/23","time":"2014-04-29T11:03:47.168Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":8116,"level":30,"msg":"Database Pools created","time":"2014-04-29T11:04:12.715Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":8116,"level":30,"msg":"Server configuration loaded","time":"2014-04-29T11:04:12.716Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":8116,"level":30,"msg":"Server started on port : 8050","time":"2014-04-29T11:04:12.762Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":8116,"level":30,"msg":"10.209.23.39 has requested OPTIONS for the url : /api/dev/getfeedback/23","time":"2014-04-29T11:04:16.494Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":8116,"level":30,"msg":"10.209.23.39 has requested GET for the url : /api/dev/getfeedback/23","time":"2014-04-29T11:04:16.510Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":7800,"level":30,"msg":"Database Pools created","time":"2014-04-29T11:04:33.892Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":7800,"level":30,"msg":"Server configuration loaded","time":"2014-04-29T11:04:33.893Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":7800,"level":30,"msg":"Server started on port : 8050","time":"2014-04-29T11:04:33.941Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7800,"level":30,"msg":"10.209.23.39 has requested OPTIONS for the url : /api/dev/getfeedback/23","time":"2014-04-29T11:04:36.711Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7800,"level":30,"msg":"10.209.23.39 has requested GET for the url : /api/dev/getfeedback/23","time":"2014-04-29T11:04:36.763Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7800,"level":50,"msg":"Error in Executing Query : ER_NO_SUCH_TABLE: Table 'event_dev.event_agendaa' doesn't exist","time":"2014-04-29T11:04:36.777Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":5916,"level":30,"msg":"Database Pools created","time":"2014-04-30T03:55:15.652Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":5916,"level":30,"msg":"Server configuration loaded","time":"2014-04-30T03:55:15.653Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":5916,"level":30,"msg":"Server started on port : 8050","time":"2014-04-30T03:55:15.698Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":5916,"level":30,"msg":"10.209.23.39 has requested POST for the url : /dev/authenticate","time":"2014-04-30T03:58:41.115Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":5916,"level":30,"msg":"10.209.23.39 has requested POST for the url : /dev/authenticate","time":"2014-04-30T03:58:45.231Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":5916,"level":30,"msg":"10.209.23.39 has requested OPTIONS for the url : /api/dev/addagenda","time":"2014-04-30T03:58:49.167Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":5916,"level":30,"msg":"10.209.23.39 has requested POST for the url : /api/dev/addagenda","time":"2014-04-30T03:58:49.183Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":2792,"level":30,"msg":"Database Pools created","time":"2014-04-30T04:00:48.252Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":2792,"level":30,"msg":"Server configuration loaded","time":"2014-04-30T04:00:48.253Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":2792,"level":30,"msg":"Server started on port : 8050","time":"2014-04-30T04:00:48.297Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":2792,"level":30,"msg":"10.209.23.39 has requested OPTIONS for the url : /api/dev/addagenda","time":"2014-04-30T04:00:52.750Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":2792,"level":30,"msg":"10.209.23.39 has requested POST for the url : /api/dev/addagenda","time":"2014-04-30T04:00:52.783Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":7248,"level":30,"msg":"Database Pools created","time":"2014-04-30T04:17:57.887Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":7248,"level":30,"msg":"Server configuration loaded","time":"2014-04-30T04:17:57.888Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":7248,"level":30,"msg":"Server started on port : 8050","time":"2014-04-30T04:17:57.933Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7248,"level":30,"msg":"10.209.23.39 has requested OPTIONS for the url : /api/dev/updateagenda/49","time":"2014-04-30T04:18:49.510Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7248,"level":30,"msg":"10.209.23.39 has requested POST for the url : /api/dev/updateagenda/49","time":"2014-04-30T04:18:49.531Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7248,"level":50,"msg":"inserted_agenda_id is not defined","time":"2014-04-30T04:18:49.558Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":8060,"level":30,"msg":"Database Pools created","time":"2014-04-30T04:19:24.475Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":8060,"level":30,"msg":"Server configuration loaded","time":"2014-04-30T04:19:24.476Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":8060,"level":30,"msg":"Server started on port : 8050","time":"2014-04-30T04:19:24.523Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":8060,"level":30,"msg":"10.209.23.39 has requested OPTIONS for the url : /api/dev/updateagenda/49","time":"2014-04-30T04:19:28.223Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":8060,"level":30,"msg":"10.209.23.39 has requested POST for the url : /api/dev/updateagenda/49","time":"2014-04-30T04:19:28.256Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":8060,"level":50,"msg":"Error in Executing Query : ER_NO_REFERENCED_ROW_: Cannot add or update a child row: a foreign key constraint fails (`event_dev`.`agenda_speaker`, CONSTRAINT `ag_fk_1` FOREIGN KEY (`agenda_id`) REFERENCES `event_agenda` (`agenda_id`) ON DELETE CASCADE ON UPDATE CASCADE)","time":"2014-04-30T04:19:28.275Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":6860,"level":30,"msg":"Database Pools created","time":"2014-04-30T04:20:55.561Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":6860,"level":30,"msg":"Server configuration loaded","time":"2014-04-30T04:20:55.562Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":6860,"level":30,"msg":"Server started on port : 8050","time":"2014-04-30T04:20:55.607Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":6860,"level":30,"msg":"10.209.23.39 has requested OPTIONS for the url : /api/dev/updateagenda/49","time":"2014-04-30T04:21:06.199Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":6860,"level":30,"msg":"10.209.23.39 has requested POST for the url : /api/dev/updateagenda/49","time":"2014-04-30T04:21:06.244Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":6860,"level":50,"msg":"Error in Executing Query : ER_NO_REFERENCED_ROW_: Cannot add or update a child row: a foreign key constraint fails (`event_dev`.`agenda_speaker`, CONSTRAINT `ag_fk_1` FOREIGN KEY (`agenda_id`) REFERENCES `event_agenda` (`agenda_id`) ON DELETE CASCADE ON UPDATE CASCADE)","time":"2014-04-30T04:21:06.266Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":6992,"level":30,"msg":"Database Pools created","time":"2014-04-30T04:22:09.044Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":6992,"level":30,"msg":"Server configuration loaded","time":"2014-04-30T04:22:09.046Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":6992,"level":30,"msg":"Server started on port : 8050","time":"2014-04-30T04:22:09.093Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":6992,"level":30,"msg":"10.209.23.39 has requested OPTIONS for the url : /api/dev/updateagenda/49","time":"2014-04-30T04:22:16.059Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":6992,"level":30,"msg":"10.209.23.39 has requested POST for the url : /api/dev/updateagenda/49","time":"2014-04-30T04:22:16.090Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":6992,"level":50,"msg":"Error in Executing Query : ER_NO_REFERENCED_ROW_: Cannot add or update a child row: a foreign key constraint fails (`event_dev`.`agenda_speaker`, CONSTRAINT `ag_fk_1` FOREIGN KEY (`agenda_id`) REFERENCES `event_agenda` (`agenda_id`) ON DELETE CASCADE ON UPDATE CASCADE)","time":"2014-04-30T04:22:16.116Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":5228,"level":30,"msg":"Database Pools created","time":"2014-04-30T04:23:23.188Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":5228,"level":30,"msg":"Server configuration loaded","time":"2014-04-30T04:23:23.190Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":5228,"level":30,"msg":"Server started on port : 8050","time":"2014-04-30T04:23:23.237Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":5228,"level":30,"msg":"10.209.23.39 has requested OPTIONS for the url : /api/dev/updateagenda/49","time":"2014-04-30T04:23:26.688Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":5228,"level":30,"msg":"10.209.23.39 has requested POST for the url : /api/dev/updateagenda/49","time":"2014-04-30T04:23:26.723Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":5228,"level":30,"msg":"10.209.23.39 has requested OPTIONS for the url : /api/dev/updateagenda/49","time":"2014-04-30T04:25:45.160Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":5228,"level":30,"msg":"10.209.23.39 has requested POST for the url : /api/dev/updateagenda/49","time":"2014-04-30T04:25:45.181Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":5228,"level":30,"msg":"10.209.23.39 has requested OPTIONS for the url : /api/dev/updateagenda/49","time":"2014-04-30T04:34:34.000Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":5228,"level":30,"msg":"10.209.23.39 has requested POST for the url : /api/dev/updateagenda/49","time":"2014-04-30T04:34:34.014Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":5228,"level":30,"msg":"10.209.23.39 has requested OPTIONS for the url : /api/dev/agendadetails/49","time":"2014-04-30T04:35:57.497Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":5228,"level":30,"msg":"10.209.23.39 has requested GET for the url : /api/dev/agendadetails/49","time":"2014-04-30T04:35:57.526Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":5228,"level":30,"msg":"10.209.23.39 has requested OPTIONS for the url : /api/dev/agendadetails/49","time":"2014-04-30T04:37:03.289Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":5228,"level":30,"msg":"10.209.23.39 has requested GET for the url : /api/dev/agendadetails/49","time":"2014-04-30T04:37:03.313Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":5228,"level":30,"msg":"10.209.23.39 has requested OPTIONS for the url : /api/dev/getfeedback/23","time":"2014-04-30T04:37:29.299Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":5228,"level":30,"msg":"10.209.23.39 has requested GET for the url : /api/dev/getfeedback/23","time":"2014-04-30T04:37:29.312Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":5228,"level":50,"msg":"Error in Executing Query : ER_NO_SUCH_TABLE: Table 'event_dev.event_agendaa' doesn't exist","time":"2014-04-30T04:37:29.319Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":7376,"level":30,"msg":"Database Pools created","time":"2014-04-30T04:40:14.401Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":7376,"level":30,"msg":"Server configuration loaded","time":"2014-04-30T04:40:14.402Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":7376,"level":30,"msg":"Server started on port : 8050","time":"2014-04-30T04:40:14.448Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7376,"level":30,"msg":"10.209.23.39 has requested OPTIONS for the url : /api/dev/getfeedback/23","time":"2014-04-30T04:40:19.505Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7376,"level":30,"msg":"10.209.23.39 has requested GET for the url : /api/dev/getfeedback/23","time":"2014-04-30T04:40:19.525Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7376,"level":30,"msg":"10.209.23.39 has requested POST for the url : /dev/authenticate","time":"2014-04-30T04:41:07.098Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7376,"level":30,"msg":"10.209.23.39 has requested POST for the url : /dev/authenticate","time":"2014-04-30T04:41:19.732Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7376,"level":30,"msg":"10.209.23.39 has requested POST for the url : /dev/authenticate","time":"2014-04-30T04:41:47.271Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7376,"level":50,"msg":"jwt is not defined","time":"2014-04-30T04:41:47.278Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":5952,"level":30,"msg":"Database Pools created","time":"2014-04-30T04:43:27.907Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":5952,"level":30,"msg":"Server configuration loaded","time":"2014-04-30T04:43:27.908Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":5952,"level":30,"msg":"Server started on port : 8050","time":"2014-04-30T04:43:27.954Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":5952,"level":30,"msg":"10.209.23.39 has requested POST for the url : /dev/authenticate","time":"2014-04-30T04:43:34.172Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":8396,"level":30,"msg":"Database Pools created","time":"2014-05-02T03:41:38.734Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":8396,"level":30,"msg":"Server configuration loaded","time":"2014-05-02T03:41:38.735Z","v":0}
+{"name":"SERVER_LOG","hostname":"BLRVSURYA42224","pid":8396,"level":30,"msg":"Server started on port : 8050","time":"2014-05-02T03:41:38.742Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":5892,"level":30,"msg":"Server started on port : 8050","time":"2014-05-02T04:15:30.648Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":8616,"level":30,"msg":"Server started on port : 8050","time":"2014-05-02T04:35:29.417Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":9024,"level":30,"msg":"Server started on port : 8050","time":"2014-05-02T04:37:09.523Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":9024,"level":30,"msg":"10.209.23.39 has requested POST for the url : /dev/authenticate","time":"2014-05-02T04:37:12.744Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":9024,"level":30,"msg":"10.209.23.39 has requested OPTIONS for the url : /api/dev/getevents","time":"2014-05-02T04:37:23.465Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":9024,"level":30,"msg":"10.209.23.39 has requested POST for the url : /dev/authenticate","time":"2014-05-02T04:37:26.353Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":9024,"level":30,"msg":"10.209.23.39 has requested POST for the url : /dev/authenticate","time":"2014-05-02T04:37:29.946Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":9024,"level":30,"msg":"10.209.23.39 has requested OPTIONS for the url : /api/dev/getfeedback/23","time":"2014-05-02T04:37:32.588Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":9024,"level":30,"msg":"10.209.23.39 has requested GET for the url : /api/dev/getfeedback/23","time":"2014-05-02T04:37:32.607Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":9024,"level":30,"msg":"10.209.23.39 has requested OPTIONS for the url : /api/dev/getevents","time":"2014-05-02T04:37:36.709Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":9024,"level":30,"msg":"10.209.23.39 has requested GET for the url : /api/dev/getevents","time":"2014-05-02T04:37:36.732Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":8068,"level":30,"msg":"Server started on port : 8050","time":"2014-05-02T04:39:13.897Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":8068,"level":30,"msg":"10.209.23.39 has requested POST for the url : /dev/authenticate","time":"2014-05-02T04:39:17.183Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":8068,"level":30,"msg":"10.209.23.39 has requested OPTIONS for the url : /api/dev/getevents","time":"2014-05-02T04:39:19.880Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":8068,"level":30,"msg":"10.209.23.39 has requested GET for the url : /api/dev/getevents","time":"2014-05-02T04:39:19.899Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":6620,"level":30,"msg":"Server started on port : 8050","time":"2014-05-02T04:54:29.455Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":6620,"level":30,"msg":"10.209.23.39 has requested OPTIONS for the url : /api/dev/getevents","time":"2014-05-02T04:54:32.425Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":6620,"level":30,"msg":"10.209.23.39 has requested GET for the url : /api/dev/getevents","time":"2014-05-02T04:54:32.453Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":4400,"level":30,"msg":"Server started on port : 8050","time":"2014-05-02T04:54:44.871Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":9208,"level":30,"msg":"Server started on port : 8050","time":"2014-05-02T04:54:54.043Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":8032,"level":30,"msg":"Server started on port : 8050","time":"2014-05-02T05:06:25.049Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7784,"level":30,"msg":"Pools created","time":"2014-05-02T05:07:11.949Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7784,"level":30,"msg":"Server started on port : 8050","time":"2014-05-02T05:07:12.097Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7784,"level":30,"msg":"10.209.23.39 has requested OPTIONS for the url : /api/dev/getevents","time":"2014-05-02T05:07:20.894Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7784,"level":30,"msg":"10.209.23.39 has requested GET for the url : /api/dev/getevents","time":"2014-05-02T05:07:20.915Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7744,"level":30,"msg":"Server started on port : 8050","time":"2014-05-02T05:57:50.109Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7744,"level":30,"msg":"10.209.23.39 has requested OPTIONS for the url : /api/dev/getevents","time":"2014-05-02T06:29:41.722Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7744,"level":30,"msg":"10.209.23.39 has requested GET for the url : /api/dev/getevents","time":"2014-05-02T06:29:41.749Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7968,"level":30,"msg":"Server started on port : undefined","time":"2014-05-02T06:35:43.664Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":5448,"level":30,"msg":"Server started on port : undefined","time":"2014-05-02T06:37:32.127Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":9076,"level":30,"msg":"Server started on port : 8050","time":"2014-05-02T06:38:41.222Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":9076,"level":30,"msg":"10.209.23.39 has requested POST for the url : /dev/authenticate","time":"2014-05-02T06:38:50.102Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":9076,"level":50,"msg":"secret must be a string or buffer","time":"2014-05-02T06:38:50.138Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":8656,"level":30,"msg":"Server started on port : 8050","time":"2014-05-02T06:39:15.990Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":8656,"level":30,"msg":"10.209.23.39 has requested POST for the url : /dev/authenticate","time":"2014-05-02T06:39:17.860Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":8656,"level":50,"msg":"secret must be a string or buffer","time":"2014-05-02T06:39:17.894Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":780,"level":30,"msg":"Server started on port : 8050","time":"2014-05-02T06:40:27.126Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":780,"level":30,"msg":"10.209.23.39 has requested POST for the url : /dev/authenticate","time":"2014-05-02T06:40:31.187Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":780,"level":50,"msg":"secret must be a string or buffer","time":"2014-05-02T06:40:31.227Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":6528,"level":30,"msg":"Server started on port : 8050","time":"2014-05-02T06:40:57.792Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":6528,"level":30,"msg":"10.209.23.39 has requested POST for the url : /dev/authenticate","time":"2014-05-02T06:41:45.184Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":6528,"level":50,"msg":"secret must be a string or buffer","time":"2014-05-02T06:41:45.222Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":692,"level":30,"msg":"Server started on port : 8050","time":"2014-05-02T06:44:44.538Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":692,"level":30,"msg":"10.209.23.39 has requested POST for the url : /dev/authenticate","time":"2014-05-02T06:44:47.508Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":692,"level":30,"msg":"10.209.23.39 has requested OPTIONS for the url : /api/dev/getevents","time":"2014-05-02T06:44:56.906Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":692,"level":30,"msg":"10.209.23.39 has requested GET for the url : /api/dev/getevents","time":"2014-05-02T06:44:56.943Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":3636,"level":30,"msg":"Server started on port : 8050","time":"2014-05-02T06:46:28.625Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":3636,"level":30,"msg":"10.209.23.39 has requested OPTIONS for the url : /api/dev/getevents","time":"2014-05-02T06:46:31.818Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":3636,"level":30,"msg":"10.209.23.39 has requested GET for the url : /api/dev/getevents","time":"2014-05-02T06:46:31.840Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7516,"level":30,"msg":"Server started on port : 8050","time":"2014-05-02T06:48:32.122Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7516,"level":30,"msg":"10.209.23.39 has requested OPTIONS for the url : /api/dev/getevents","time":"2014-05-02T06:48:35.872Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7516,"level":30,"msg":"10.209.23.39 has requested GET for the url : /api/dev/getevents","time":"2014-05-02T06:48:35.898Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7516,"level":30,"msg":"10.209.23.39 has requested POST for the url : /qa/authenticate","time":"2014-05-02T06:49:22.022Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7516,"level":30,"msg":"10.209.23.39 has requested OPTIONS for the url : /api/qa/getevents","time":"2014-05-02T06:49:24.065Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7516,"level":30,"msg":"10.209.23.39 has requested GET for the url : /api/qa/getevents","time":"2014-05-02T06:49:24.090Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7208,"level":30,"msg":"Server started on port : 8050","time":"2014-05-02T06:52:15.977Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7208,"level":30,"msg":"10.209.23.39 has requested POST for the url : /qa/authenticate","time":"2014-05-02T06:52:30.612Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":5964,"level":30,"msg":"Server started on port : 8050","time":"2014-05-02T07:04:29.744Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":5964,"level":30,"msg":"Running in qa environment","time":"2014-05-02T07:04:29.745Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":9072,"level":30,"msg":"Connected to null database","time":"2014-05-02T07:10:18.614Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":9072,"level":30,"msg":"Server started on port : 8050","time":"2014-05-02T07:10:18.776Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":9072,"level":30,"msg":"Running in qa environment","time":"2014-05-02T07:10:18.777Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":8516,"level":30,"msg":"Server started on port : 8050","time":"2014-05-02T07:11:10.398Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":8516,"level":30,"msg":"Running in qa environment","time":"2014-05-02T07:11:10.399Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":8516,"level":30,"msg":"10.209.23.39 has requested POST for the url : /qa/authenticate","time":"2014-05-02T07:11:29.725Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":8516,"level":50,"msg":"Error in Executing Query : ER_NO_DB_ERROR: No database selected","time":"2014-05-02T07:11:29.760Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":8516,"level":50,"msg":"Cannot read property 'pass_salt' of undefined","time":"2014-05-02T07:11:29.765Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":8740,"level":30,"msg":"Server started on port : 8050","time":"2014-05-02T07:12:04.314Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":8740,"level":30,"msg":"Running in qa environment","time":"2014-05-02T07:12:04.314Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":8904,"level":30,"msg":"Connected to event_qa database","time":"2014-05-02T07:12:48.282Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":8904,"level":30,"msg":"Server started on port : 8050","time":"2014-05-02T07:12:48.438Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":8904,"level":30,"msg":"Running in qa environment","time":"2014-05-02T07:12:48.438Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":8904,"level":30,"msg":"10.209.23.39 has requested POST for the url : /qa/authenticate","time":"2014-05-02T07:13:02.423Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":8904,"level":50,"msg":"Error in Executing Query : ER_BAD_FIELD_ERROR: Unknown column 'pass_salt' in 'field list'","time":"2014-05-02T07:13:02.472Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":8904,"level":50,"msg":"Cannot read property 'pass_salt' of undefined","time":"2014-05-02T07:13:02.476Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":5428,"level":30,"msg":"Connected to event_qa database","time":"2014-05-02T08:44:12.299Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":5428,"level":30,"msg":"Server started on port : 8050","time":"2014-05-02T08:44:12.517Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":5428,"level":30,"msg":"Running in qa environment","time":"2014-05-02T08:44:12.524Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":3384,"level":30,"msg":"Connected to event_qa database","time":"2014-05-02T08:44:53.835Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":3384,"level":30,"msg":"Server started on port : 8050","time":"2014-05-02T08:44:53.993Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":3384,"level":30,"msg":"Running in qa environment","time":"2014-05-02T08:44:53.993Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":3384,"level":30,"msg":"10.209.23.39 has requested POST for the url : /qa/authenticate","time":"2014-05-02T08:45:05.177Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":3384,"level":30,"msg":"10.209.23.39 has requested POST for the url : /qa/authenticate","time":"2014-05-02T08:45:29.588Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":3384,"level":30,"msg":"10.209.23.39 has requested POST for the url : /qa/authenticate","time":"2014-05-02T08:46:08.494Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":3384,"level":30,"msg":"10.209.23.39 has requested POST for the url : /qa/authenticate","time":"2014-05-02T08:46:50.980Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":3384,"level":30,"msg":"10.209.23.39 has requested OPTIONS for the url : /api/qa/getevents","time":"2014-05-02T08:46:55.764Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":3384,"level":30,"msg":"10.209.23.39 has requested GET for the url : /api/qa/getevents","time":"2014-05-02T08:46:55.778Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7272,"level":30,"msg":"Connected to event_qa database","time":"2014-05-02T09:41:01.097Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7272,"level":30,"msg":"Server started on port : 8050","time":"2014-05-02T09:41:01.358Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7272,"level":30,"msg":"Running in qa environment","time":"2014-05-02T09:41:01.358Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7716,"level":30,"msg":"Connected to event_qa database","time":"2014-05-02T09:41:01.051Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7716,"level":30,"msg":"Server started on port : 8050","time":"2014-05-02T09:41:01.371Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7716,"level":30,"msg":"Running in qa environment","time":"2014-05-02T09:41:01.371Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":5176,"level":30,"msg":"Connected to event_qa database","time":"2014-05-02T09:41:01.146Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":5176,"level":30,"msg":"Server started on port : 8050","time":"2014-05-02T09:41:01.430Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":5176,"level":30,"msg":"Running in qa environment","time":"2014-05-02T09:41:01.430Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":2980,"level":30,"msg":"Connected to event_qa database","time":"2014-05-02T09:41:01.139Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":2980,"level":30,"msg":"Server started on port : 8050","time":"2014-05-02T09:41:01.489Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":2980,"level":30,"msg":"Running in qa environment","time":"2014-05-02T09:41:01.490Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":9052,"level":30,"msg":"Connected to event_qa database","time":"2014-05-02T09:41:01.228Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":9052,"level":30,"msg":"Server started on port : 8050","time":"2014-05-02T09:41:01.494Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":9052,"level":30,"msg":"Running in qa environment","time":"2014-05-02T09:41:01.494Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":5584,"level":30,"msg":"Connected to event_qa database","time":"2014-05-02T09:41:01.232Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":5584,"level":30,"msg":"Server started on port : 8050","time":"2014-05-02T09:41:01.511Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":5584,"level":30,"msg":"Running in qa environment","time":"2014-05-02T09:41:01.511Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":9156,"level":30,"msg":"Connected to event_qa database","time":"2014-05-02T09:41:01.306Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":9156,"level":30,"msg":"Server started on port : 8050","time":"2014-05-02T09:41:01.536Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":9156,"level":30,"msg":"Running in qa environment","time":"2014-05-02T09:41:01.536Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7528,"level":30,"msg":"Connected to event_qa database","time":"2014-05-02T09:41:01.298Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7528,"level":30,"msg":"Server started on port : 8050","time":"2014-05-02T09:41:01.555Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7528,"level":30,"msg":"Running in qa environment","time":"2014-05-02T09:41:01.555Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":8944,"level":30,"msg":"Connected to event_qa database","time":"2014-05-02T09:44:18.583Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":8944,"level":30,"msg":"Server started on port : 8050","time":"2014-05-02T09:44:18.812Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":8944,"level":30,"msg":"Running in qa environment","time":"2014-05-02T09:44:18.813Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":8944,"level":30,"msg":"Worker 1 running!","time":"2014-05-02T09:44:18.813Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":940,"level":30,"msg":"Connected to event_qa database","time":"2014-05-02T09:44:18.676Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":940,"level":30,"msg":"Server started on port : 8050","time":"2014-05-02T09:44:18.952Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":940,"level":30,"msg":"Running in qa environment","time":"2014-05-02T09:44:18.952Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":940,"level":30,"msg":"Worker 3 running!","time":"2014-05-02T09:44:18.952Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":1052,"level":30,"msg":"Connected to event_qa database","time":"2014-05-02T09:44:18.753Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":1052,"level":30,"msg":"Server started on port : 8050","time":"2014-05-02T09:44:18.997Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":1052,"level":30,"msg":"Running in qa environment","time":"2014-05-02T09:44:18.998Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":1052,"level":30,"msg":"Worker 6 running!","time":"2014-05-02T09:44:18.998Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":6344,"level":30,"msg":"Connected to event_qa database","time":"2014-05-02T09:44:18.629Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":6344,"level":30,"msg":"Server started on port : 8050","time":"2014-05-02T09:44:19.019Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":6344,"level":30,"msg":"Running in qa environment","time":"2014-05-02T09:44:19.019Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":6344,"level":30,"msg":"Worker 7 running!","time":"2014-05-02T09:44:19.019Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":4628,"level":30,"msg":"Connected to event_qa database","time":"2014-05-02T09:44:18.702Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":4628,"level":30,"msg":"Server started on port : 8050","time":"2014-05-02T09:44:19.037Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":4628,"level":30,"msg":"Running in qa environment","time":"2014-05-02T09:44:19.038Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":4628,"level":30,"msg":"Worker 4 running!","time":"2014-05-02T09:44:19.038Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7892,"level":30,"msg":"Connected to event_qa database","time":"2014-05-02T09:44:18.651Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7892,"level":30,"msg":"Server started on port : 8050","time":"2014-05-02T09:44:19.043Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7892,"level":30,"msg":"Running in qa environment","time":"2014-05-02T09:44:19.043Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7892,"level":30,"msg":"Worker 8 running!","time":"2014-05-02T09:44:19.043Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":6156,"level":30,"msg":"Connected to event_qa database","time":"2014-05-02T09:44:18.826Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":6156,"level":30,"msg":"Server started on port : 8050","time":"2014-05-02T09:44:19.089Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":6156,"level":30,"msg":"Running in qa environment","time":"2014-05-02T09:44:19.089Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":6156,"level":30,"msg":"Worker 5 running!","time":"2014-05-02T09:44:19.089Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":9100,"level":30,"msg":"Connected to event_qa database","time":"2014-05-02T09:44:18.878Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":9100,"level":30,"msg":"Server started on port : 8050","time":"2014-05-02T09:44:19.122Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":9100,"level":30,"msg":"Running in qa environment","time":"2014-05-02T09:44:19.122Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":9100,"level":30,"msg":"Worker 2 running!","time":"2014-05-02T09:44:19.122Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":9100,"level":30,"msg":"10.209.23.39 has requested OPTIONS for the url : /api/qa/getfeedback/23","time":"2014-05-02T09:44:29.841Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":9100,"level":30,"msg":"10.209.23.39 has requested GET for the url : /api/qa/getfeedback/23","time":"2014-05-02T09:44:29.871Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":9100,"level":30,"msg":"10.209.23.39 has requested OPTIONS for the url : /api/qa/getevents","time":"2014-05-02T09:44:31.827Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":9100,"level":30,"msg":"10.209.23.39 has requested GET for the url : /api/qa/getevents","time":"2014-05-02T09:44:31.841Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7756,"level":30,"msg":"Connected to event_qa database","time":"2014-05-02T09:49:28.632Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7756,"level":30,"msg":"Server started on port : 8050 and running in qa environment","time":"2014-05-02T09:49:28.895Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":5428,"level":30,"msg":"Connected to event_qa database","time":"2014-05-02T09:49:28.562Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":5428,"level":30,"msg":"Server started on port : 8050 and running in qa environment","time":"2014-05-02T09:49:28.988Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7500,"level":30,"msg":"Connected to event_qa database","time":"2014-05-02T09:49:28.716Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":7500,"level":30,"msg":"Server started on port : 8050 and running in qa environment","time":"2014-05-02T09:49:28.998Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":6468,"level":30,"msg":"Connected to event_qa database","time":"2014-05-02T09:49:28.670Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":6468,"level":30,"msg":"Server started on port : 8050 and running in qa environment","time":"2014-05-02T09:49:29.017Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":8124,"level":30,"msg":"Connected to event_qa database","time":"2014-05-02T09:49:28.801Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":8124,"level":30,"msg":"Server started on port : 8050 and running in qa environment","time":"2014-05-02T09:49:29.057Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":6676,"level":30,"msg":"Connected to event_qa database","time":"2014-05-02T09:49:28.837Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":6676,"level":30,"msg":"Server started on port : 8050 and running in qa environment","time":"2014-05-02T09:49:29.077Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":4328,"level":30,"msg":"Connected to event_qa database","time":"2014-05-02T09:49:28.972Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":4328,"level":30,"msg":"Server started on port : 8050 and running in qa environment","time":"2014-05-02T09:49:29.159Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":6416,"level":30,"msg":"Connected to event_qa database","time":"2014-05-02T09:49:28.895Z","v":0}
+{"name":"EVENT_REG_LOGGER","hostname":"BLRVSURYA42224","pid":6416,"level":30,"msg":"Server started on port : 8050 and running in qa environment","time":"2014-05-02T09:49:29.168Z","v":0}

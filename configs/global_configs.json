@@ -1,0 +1,11 @@
+{
+    "APP_ENV":"qa",
+    "APP_PORT":"8050",
+    "NITRO_USERS_FILE":"sample_nitro.csv",
+    "GM_USERS_FILE":"sample_gm.csv",
+    "TOKEN_SECRET":"SecR3tK@y",
+    "LOGGER_NAME":"EVENT_REG_LOGGER",
+    "INFO_LOG_FILE_NAME":"server_info.log",
+    "ERROR_LOG_FILE_NAME":"server_error.log",
+    "SERVER_URL":"http://191.236.17.14/server/public/images/speakers/"
+}

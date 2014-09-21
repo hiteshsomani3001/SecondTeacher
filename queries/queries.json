@@ -1,0 +1,5 @@
+{
+    "agenda_details":"SELECT * FROM event_agenda WHERE agenda_id = ?",
+    "agenda_speakers":"SELECT s.speaker_id,s.fname, s.lname, s.overview FROM agenda_speaker a, speakers s WHERE a.speaker_id = s.speaker_id AND a.agenda_id = ?",
+    "checkfeedback":"SELECT rating, is_liked, is_loved, feedback FROM user_feedback WHERE agenda_id = ? AND user_id = ?"
+}

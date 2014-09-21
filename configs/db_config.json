@@ -1,0 +1,11 @@
+{
+    "host":"localhost",
+    "username":"eventadmin",
+    "password":"admin123",
+    "port":"3306",
+    "dev_schema":"event_dev",
+    "qa_schema":"event_qa",
+    "prod_schema":"event_live",
+    "connection_limit":"120",
+    "timeout":"5000"
+}
